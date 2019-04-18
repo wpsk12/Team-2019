@@ -15,20 +15,24 @@ Section 1 - Player vs. Player
 --------------------------------------------------------------------------------
 Each column shows pts/round earned against each other player:
              P0     P1     P2     P3
+
 vs. P0 :      0    100     50      0
 vs. P1 :   -500      0   -375   -376
 vs. P2 :   -250    -75      0   -199
 vs. P3 :      0    -74   -199      0
 TOTAL  :   -750    -49   -524   -575
+
 --------------------------------------------------------------------------------
 Section 2 - Leaderboard
 --------------------------------------------------------------------------------
 Average points per round:
 Team name (P#):  Score      with strategy name
 E1        (P1):        -13 points with Betray                                  
+
 E2        (P2):       -131 points with Alternate                               
 E3        (P3):       -144 points with Collude but retaliate                   
 E0        (P0):       -188 points with Collude                                 
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 example0--------------------------------------------------------------------------------
@@ -152,6 +156,7 @@ Section 3 - Game Data for Team E0
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
+
 cccccccccccccccccccccccccccccccccccccccccccccccccccccc
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
@@ -173,8 +178,10 @@ CBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCB
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 
+
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -215,7 +222,7 @@ cbcbcbcbc
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Section 3 - Game Data for Team E2
---------------------------------------------------------------------------------
+
 50 pt/round: E2(P2) "Alternate"
 -250 pt/round: E0(P0) "Collude"
 CBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCBCB
@@ -248,6 +255,7 @@ CcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Section 3 - Game Data for Team E3
@@ -256,6 +264,7 @@ Section 3 - Game Data for Team E3
 0 pt/round: E0(P0) "Collude"
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
 
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
@@ -280,5 +289,6 @@ CBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 
 BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+
 
 --------------------------------------------------------------------------------
